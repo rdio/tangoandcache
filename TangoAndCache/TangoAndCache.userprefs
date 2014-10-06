@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../DreamClock/DreamClock/Presenters/DreamClockConfigurationPresenter.cs" line="95" offsetX="671" offsetY="1410" expression="model.TimeColors" liveUpdate="False" />
+    <Watch file="../../mobile/Pulser/Pulser.Rdio/Pulser.Rdio/Rdio/SessionImplementationBase.cs" line="624" offsetX="311" offsetY="9345" expression="info" liveUpdate="False" />
+    <Watch file="../../mobile/Pulser/Pulser.Rdio/Pulser.Rdio/UI/ModelViewMap.cs" line="49" offsetX="580" offsetY="720" expression="sender" liveUpdate="False" />
+    <Watch file="../../mobile/Rdio.Android/Rdio/UI/SlideOverHeaderHandler.cs" line="243" offsetX="394" offsetY="3630" expression="list_header_spacer" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>

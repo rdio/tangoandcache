@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TangoAndCache", "TangoAndCache\TangoAndCache.csproj", "{FB43CF84-E9A5-44EB-AF90-3C3544E1A251}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample", "Sample\Sample.csproj", "{F2CF0BC1-9DC9-4AB8-9A87-8487E072D6C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2CF0BC1-9DC9-4AB8-9A87-8487E072D6C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2CF0BC1-9DC9-4AB8-9A87-8487E072D6C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2CF0BC1-9DC9-4AB8-9A87-8487E072D6C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2CF0BC1-9DC9-4AB8-9A87-8487E072D6C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB43CF84-E9A5-44EB-AF90-3C3544E1A251}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB43CF84-E9A5-44EB-AF90-3C3544E1A251}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB43CF84-E9A5-44EB-AF90-3C3544E1A251}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB43CF84-E9A5-44EB-AF90-3C3544E1A251}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Sample\Sample.csproj
+	EndGlobalSection
+EndGlobal
